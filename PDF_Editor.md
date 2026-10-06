@@ -9,7 +9,6 @@ file_list = [
             ,r"file_2"
             ]
 
-
 def pdf_trim(file_path, file_name):
     #pdf trim
     input_pdf = PdfReader(file_path, file_name)
